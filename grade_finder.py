@@ -5,8 +5,10 @@ def get_grade(score):
         return "B"
     elif score > 70 and score <= 80:
         return "C"
-    else:
+    elif score > 60 and score <= 70:
         return "D"
+    else:
+        return "F"
     
 
 def main():
