@@ -15,10 +15,12 @@ Then:
 
 
 Team lead : Viswas Vinayan
-Reviewer : Sneha R
-Tester : Anamika P
+Reviewer : Sneha R 
+Tester : Anamika P 
 Documentation Lead : Prajwal P
 Presenter : Sourav K
 Support : Nivedhitha K
 
 Deadline : 08/12/2025
+
+Explanation 
