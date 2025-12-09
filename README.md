@@ -1,4 +1,5 @@
-# Grade-Finder
+# Grade-Finder (Assignment 1)
+
 *Grading System Using Functions & Conditionals*
 
 Objective: Strengthen logic with if/elif/else inside a function.
@@ -24,6 +25,7 @@ Support : Nivedhitha K
 Deadline : 08/12/2025
 
 ## Explanation 
+
 Grade Finder - A simple utility to determine letter grades from numerical scores.
 
 Determine the letter grade for a given numerical score.
@@ -35,9 +37,10 @@ Determine the letter grade for a given numerical score.
         A string representing the letter grade (A, B, C, D, or F).
 
 ## Status of assignment
-Team lead : Viswas Vinayan          -   done 
-Reviewer : Sneha R                  -   
-Tester : Anamika P                  - 
-Documentation Lead : Prajwal P      -
-Presenter : Sourav K                -
-Support : Nivedhitha K              -
+
+- [x] Team lead: Viswas Vinayan
+- [ ] Reviewer: Sneha R
+- [ ] Tester: Anamika P
+- [ ] Documentation Lead: Prajwal P
+- [ ] Presenter: Sourav K
+- [ ] Support: Nivedhitha K
