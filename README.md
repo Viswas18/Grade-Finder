@@ -35,7 +35,7 @@ Determine the letter grade for a given numerical score.
         A string representing the letter grade (A, B, C, D, or F).
 
 ## Status of assignment
-Team lead : Viswas Vinayan          - done 
+Team lead : Viswas Vinayan          -   done 
 Reviewer : Sneha R                  -   
 Tester : Anamika P                  - 
 Documentation Lead : Prajwal P      -
