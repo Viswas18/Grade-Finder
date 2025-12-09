@@ -23,4 +23,21 @@ Support : Nivedhitha K
 
 Deadline : 08/12/2025
 
-Explanation 
+## Explanation 
+Grade Finder - A simple utility to determine letter grades from numerical scores.
+
+Determine the letter grade for a given numerical score.
+
+    Args:
+        score: An integer representing the student's score (0-100).
+
+    Returns:
+        A string representing the letter grade (A, B, C, D, or F).
+
+## Status of assignment
+Team lead : Viswas Vinayan          - done 
+Reviewer : Sneha R                  -   
+Tester : Anamika P                  - 
+Documentation Lead : Prajwal P      -
+Presenter : Sourav K                -
+Support : Nivedhitha K              -

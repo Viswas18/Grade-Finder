@@ -1,23 +1,23 @@
 def get_grade(score):
-    if score > 90 and score <= 100:
+    if 90 < score <= 100:
         return "A"
-    elif score > 80 and score <= 90:
+    elif 80 < score <= 90:
         return "B"
-    elif score > 70 and score <= 80:
+    elif 70 < score <= 80:
         return "C"
-    elif score > 60 and score <= 70:
+    elif 60 < score <= 70:
         return "D"
     else:
         return "F"
-    
+
 
 def main():
+    """Main function to process student scores and display their grades."""
+    user_input = input("Enter the score (comma separated): ")
 
-    user_input = input("Enter the score(commma separated): ")
+    scores = [int(x.strip()) for x in user_input.split(",")]
 
-    scores = [int(x.strip()) for x in user_input.split(',')]
-      
-    print("\n")
+    print()
 
     for score in scores:
         grade = get_grade(score)
